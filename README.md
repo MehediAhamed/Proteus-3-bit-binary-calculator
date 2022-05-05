@@ -1,1 +1,1 @@
-# Proteus-3-bit-binary-calculator
+Input binary number and see reult of multiplication.
